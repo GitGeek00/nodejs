@@ -1,4 +1,4 @@
-
+// Use postman for post/put/delete requests
 const products = require('./json/MOCK_DATA.json');
 
 const Joi = require('joi');
